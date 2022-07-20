@@ -29,11 +29,8 @@ cd digit-classification-with-CNN
 ```
 USE GOOGLE COLAB OR JUPYTER NOTEBOOK<br>
 
-## Technologies Used
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" width=170>](https://www.tensorflow.org/) [<img target="_blank" src="https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg" width=280>](https://matplotlib.org/)
 
-#Steps
+# Steps
  ## 1) IMPORT DATASET 
  •Tensorflowand Kerasallow us to import and download the MNIST dataset(Modified National Institute of Standards and Technology) directly from their API
  •The MNIST database contains 60,000 training images 
@@ -57,3 +54,6 @@ Compiling the model takes three parameters:** optimizer, loss and metrics. **
 Optimizer : controls the learning rate. We will be using ‘adam’ as our optmizer. Adam is generally a good optimizer to use for many cases. The adamoptimizer adjusts the learning rate throughout trainingLoss: that can be used to estimate the loss of the model so that the weights can be updated to reduce the loss on the next evaluation.We use fit method then training starts 
 ## 5) EVALUATING THE MODEL 
 With a simple evaluate function to know the accuracy 
+## Technologies Used
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" width=170>](https://www.tensorflow.org/) [<img target="_blank" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" width=280>](https://matplotlib.org/)
