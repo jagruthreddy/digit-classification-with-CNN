@@ -6,14 +6,14 @@ Build  a model which can identify the handwritten digits
   * [Steps](#steps)
 
 ## Overview
-This is a Hand Written Digit Classification with CNN which can be achieved in few steps as follows
+This is a Hand Written Digit Classification with CNN which can be achieved in few steps as follows<br />
 1.Import the libraries and load the dataset<br />
 2.Reshaping and Normalizing the Images (preprocessing )<br />
 3.Building the Convolutional Neural Network<br />
 4.Compiling and training the model5.Evaluating the Model.<br />
 
 **Dataset:** MNIST database of handwritten digits<br />
-[![](https://imgur.com/a/cciysGp/dataset.png)](http://yann.lecun.com/exdb/mnist/)
+[![](https://i.imgur.com/QoWdo5o.png)](http://yann.lecun.com/exdb/mnist/)
 
 Accuracy is above **97%**
 
@@ -50,8 +50,8 @@ USE GOOGLE COLAB OR JUPYTER NOTEBOOK<br>
  **SOFTMAX  LAYER** is the last layer of CNN. It resides at the end of FC layer, softmaxis for multi-classification.<br />
 
 ## 4) COMPILING AND TRAINING THE MODEL 
-Compiling the model takes three parameters:**optimizer, loss and metrics.** <br />
-Optimizer : controls the learning rate. We will be using ‘adam’ as our optmizer. Adam is generally a good optimizer to use for many cases. The adamoptimizer adjusts the learning rate throughout trainingLoss: that can be used to estimate the loss of the model so that the weights can be updated to reduce the loss on the next evaluation.We use fit method then training starts <br />
+Compiling the model takes three parameters: **optimizer, loss and metrics.** <br />
+Optimizer: controls the learning rate. We will be using ‘adam’ as our optmizer. Adam is generally a good optimizer to use for many cases. The adamoptimizer adjusts the learning rate throughout trainingLoss: that can be used to estimate the loss of the model so that the weights can be updated to reduce the loss on the next evaluation.We use fit method then training starts <br />
 ## 5) EVALUATING THE MODEL 
 With a simple evaluate function to know the accuracy 
 ## Technologies Used
