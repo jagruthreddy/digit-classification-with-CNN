@@ -13,7 +13,7 @@ This is a Hand Written Digit Classification with CNN which can be achieved in fe
 4.Compiling and training the model5.Evaluating the Model.
 
 **Dataset:** MNIST database of handwritten digits
-[![](https://imgur.com/a/cciysGp)]
+[![](https://imgur.com/a/cciysGp)](http://yann.lecun.com/exdb/mnist/)
 
 Accuracy is above **97%**
 
@@ -28,7 +28,7 @@ Navigate to the folder <br>
 cd digit-classification-with-CNN
 ```
 USE GOOGLE COLAB OR JUPYTER NOTEBOOK<br>
-```
+
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" width=170>](https://www.tensorflow.org/) [<img target="_blank" src="https://commons.wikimedia.org/wiki/File:Created_with_Matplotlib-logo.svg" width=280>](https://matplotlib.org/)
