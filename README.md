@@ -21,7 +21,7 @@ Accuracy is above **97%**
 Clone the repository on your local environment <br>
 
 ```bash
-git clone https://github.com/jagruthreddy/used-car-price-predictor
+git clone https://github.com/jagruthreddy/digit-classification-with-CNN
 ```
 Navigate to the folder <br>
 ```bash 
