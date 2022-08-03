@@ -10,7 +10,8 @@ This is a Hand Written Digit Classification with CNN which can be achieved in fe
 1.Import the libraries and load the dataset<br />
 2.Reshaping and Normalizing the Images (preprocessing )<br />
 3.Building the Convolutional Neural Network<br />
-4.Compiling and training the model5.Evaluating the Model.<br />
+4.Compiling and training the model<br />
+5.Evaluating the Model.<br />
 
 **Dataset:** MNIST database of handwritten digits<br />
 [![](https://i.imgur.com/QoWdo5o.png)](http://yann.lecun.com/exdb/mnist/)
