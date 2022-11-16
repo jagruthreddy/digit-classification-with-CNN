@@ -57,4 +57,5 @@ Optimizer: controls the learning rate. We will be using ‘adam’ as our optmiz
 With a simple evaluate function to know the accuracy 
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
+
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" width=160>](https://www.tensorflow.org/) [<img target="_blank" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" width=160>](https://matplotlib.org/)
